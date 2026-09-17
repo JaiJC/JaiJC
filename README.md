@@ -39,7 +39,7 @@ I build at the intersection of AI and healthcare — from bioinformatics pipelin
 ##  Check out!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jaichoraria.com-blue?style=flat-square)](https://www.jaichoraria.com)
-[![Email](https://img.shields.io/badge/Email-jai%40get--resume.app-D14836?style=flat-square&logo=gmail)](mailto:jai@get-resume.app)
+[![Email](https://img.shields.io/badge/Email-jai%40get--resume.app-D14836?style=flat-square&logo=gmail)](mailto:jchoraria17@gmail.com)
 
 ---
 
