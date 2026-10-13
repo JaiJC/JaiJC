@@ -29,10 +29,9 @@ I build at the intersection of AI and healthcare — from bioinformatics pipelin
 
 | Project | Description | Stack |
 |---|---|---|
-| [ResuME](https://get-resume.app) | AI-powered recruiting app for in-person events | Swift · Supabase · TypeScript |
+| [ResuME](https://get-resume.app) | Optimizing in person networking | Swift · Supabase · TypeScript |
 | [Fall Detection Wearable](https://github.com/JaiJC/Fall-Near-Fall_Detection) | ML pipeline for fall/near-fall detection | MATLAB · Python |
 | [AI for Sarcopenia](https://github.com/SenpaiSepehr/AI-for-Sarcopenia) | Automated sarcopenia diagnosis from CT scans — YOLOv11 for L3 vertebra localization + hybrid CNN-Transformer for muscle segmentation | Python · PyTorch · Streamlit |
-| COLLEGEaiD | College application assistant | TypeScript |
 
 ---
 
