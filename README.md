@@ -9,7 +9,6 @@ I build at the intersection of AI and healthcare — from bioinformatics pipelin
 ##  About Me
 
 -  BEng Biomedical Engineering, University of British Columbia (2025)
--  Founder of **[ResuME](https://get-resume.app)** — an iOS app reimagining recruiting at career fairs with AI-powered resume matching
 -  Research experience in brain tumor MRI segmentation and bioinformatics (FASTQ → VCF pipelines)
 -  Passionate about cardiac devices, brain-computer interfaces, and health wearables
 -  Portfolio: [jaichoraria.com](https://www.jaichoraria.com)
